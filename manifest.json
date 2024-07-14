@@ -1,11 +1,11 @@
 {
-    "name": "udat_try3",
-    "short_name": "udat_try3",
+    "name": "udate",
+    "short_name": "udate",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "UDAT system official app",
+    "description": "Unified Date And Time Enhancement",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
